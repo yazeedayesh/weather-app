@@ -25,22 +25,22 @@ To get started with the app:
    git clone https://github.com/yazeedayesh/weather-app.git
 
 2. Install dependencies:
-   npm install
+   ```npm install
 
-3. Start the app:
-   expo start
+4. Start the app:
+   ```expo start
 
-Libraries & Dependencies
-
+## Libraries & Dependencies
 This project relies on the following libraries:
 
-React Native - Cross-platform framework for mobile app development.
-Expo - An open-source platform for developing React Native apps.
-Material UI Components - Provides Material Design 2 components.
-Axios - For API requests.
-React Navigation - For easy navigation across screens.
+- **React Native** - Cross-platform framework for mobile app development.
+- **Expo** - An open-source platform for developing React Native apps.
+- **Material UI Components** - Provides Material Design 2 components.
+- **Axios** - For API requests.
+- **SQLite** - Local database for offline data storage.
+- **React Navigation** - For easy navigation across screens.
 
-License
+## License
 This project is licensed under the MIT License.
 
 
