@@ -37,7 +37,6 @@ This project relies on the following libraries:
 - **Expo** - An open-source platform for developing React Native apps.
 - **Material UI Components** - Provides Material Design 2 components.
 - **Axios** - For API requests.
-- **SQLite** - Local database for offline data storage.
 - **React Navigation** - For easy navigation across screens.
 
 ## License
