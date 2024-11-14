@@ -6,14 +6,9 @@ A simple and user-friendly weather app built with React Native and Expo. The app
 
 ## Requirements
 - **Expo CLI** (Latest version)
-- **JDK 17** or higher
-- **Android SDK** 34
-- **Minimum API Level**: 21+
-- **Material Components** version 1.12.0
 
 ## Features
 - **Weather API**: Uses the [OpenWeatherMap API](https://openweathermap.org/) for real-time weather data.
-- **Material Design 2** for consistent UI/UX.
 
 ## Demo
 The demo version of this app is available in the [Releases](https://github.com/yazeedayesh/weather-app/releases) section.
@@ -25,10 +20,12 @@ To get started with the app:
    git clone https://github.com/yazeedayesh/weather-app.git
 
 2. Install dependencies:
-   ```npm install
+   ```bash
+   npm install
 
 4. Start the app:
-   ```expo start
+   ```bash
+   expo start
 
 ## Libraries & Dependencies
 This project relies on the following libraries:
