@@ -38,5 +38,4 @@ This project relies on the following libraries:
 
 ## License
 This project is licensed under the MIT License.
-
-
+> **Note:** Make sure to replace `https://github.com/yazeedayesh/weather-app.git`
