@@ -1,7 +1,5 @@
 # Weather App
 
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Weather%20App-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7678)
-
 <p align="center"><img src="assets/screenshot-1.png" /></p>
 
 ## Overview
@@ -17,9 +15,6 @@ A simple and user-friendly weather app built with React Native and Expo. The app
 ## Features
 - **Weather API**: Uses the [OpenWeatherMap API](https://openweathermap.org/) for real-time weather data.
 - **Material Design 2** for consistent UI/UX.
-- **Dark Mode** support.
-- **Multi-language** support: English & Persian.
-- **Local Database** for saving data offline.
 
 ## Demo
 The demo version of this app is available in the [Releases](https://github.com/yazeedayesh/weather-app/releases) section.
@@ -29,3 +24,24 @@ To get started with the app:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yazeedayesh/weather-app.git
+
+2. Install dependencies:
+   npm install
+
+3. Start the app:
+   expo start
+
+Libraries & Dependencies
+
+This project relies on the following libraries:
+
+React Native - Cross-platform framework for mobile app development.
+Expo - An open-source platform for developing React Native apps.
+Material UI Components - Provides Material Design 2 components.
+Axios - For API requests.
+React Navigation - For easy navigation across screens.
+
+License
+This project is licensed under the MIT License.
+
+
