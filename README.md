@@ -1,6 +1,5 @@
 # Weather App
 
-<p align="center"><img src="assets/screenshot-1.png" /></p>
 
 ## Overview
 A simple and user-friendly weather app built with React Native and Expo. The app provides real-time weather updates and supports multiple languages.
