@@ -11,7 +11,7 @@ A simple and user-friendly weather app built with React Native and Expo. The app
 - **Weather API**: Uses the [OpenWeatherMap API](https://openweathermap.org/) for real-time weather data.
 
 ## Demo
-The demo version of this app is available in the [Releases](https://github.com/yazeedayesh/weather-app/releases) section.
+The demo version of this app is not available yet. You can download the app from the repository or build it locally.
 
 ## Getting Started
 To get started with the app:
